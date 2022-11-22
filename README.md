@@ -6,7 +6,7 @@ Explainable Disease Prediction System is an application which uses machine Learn
 # Heart Disease Prediction Demo ❣️:
 ![heart-bg](https://github.com/bharatadk/Explainable-Disease-Prediction-System/blob/main/gifs/heart_disease.gif)
 
-# Tuberculosis (TB) Demo 🫁 :
+# Tuberculosis (TB) Demo 🩻 :
 ![tb-bg](https://github.com/bharatadk/Explainable-Disease-Prediction-System/blob/main/gifs/tb.gif)
 
 # Tools Used ⚒️:
